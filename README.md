@@ -1,6 +1,10 @@
 # Weatherly 🌞
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cddec3b5-4e3d-4be1-b637-e5e48f779918/deploy-status)](https://app.netlify.com/sites/weatherly-zelios/deploys)
+
 ![weatherly](https://user-images.githubusercontent.com/6444928/275372584-93b727ee-9080-4a7f-a387-9397330179c5.png)
+
+## [Go to Demo](https://weatherly-zelios.netlify.app/)
 
 ## 📘 Overview
 
